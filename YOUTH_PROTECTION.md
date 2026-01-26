@@ -1,5 +1,6 @@
 # Parents for Scouting, Inc. (PFSI) — Youth Protection & Digital Safety Standard
-**Document Owner:** Chief Technology Officer (CTO)  
+**Document Owner:** Chief Executive Officer (CEO)  
+**Document Approver:** Chief Technology Officer (CTO)    
 **Applies To:** All PFSI technology systems, online platforms, software projects, and collaboration tools (including GitHub)  
 **Effective Date:** 2026-01-25  
 **Version:** 1.0
