@@ -1,5 +1,6 @@
 # Parents for Scouting, Inc. (PFSI) — Data Classification Standard
-**Document Owner:** Chief Technology Officer (CTO)  
+**Document Owner:** Chief Executive Officer (CEO)  
+**Document Approver:** Chief Technology Officer (CTO)   
 **Applies To:** All PFSI systems, services, devices, accounts, repositories, and communications (including GitHub)  
 **Effective Date:** 2026-01-25  
 **Version:** 1.0
