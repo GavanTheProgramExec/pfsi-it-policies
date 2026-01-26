@@ -1,6 +1,6 @@
 # Parents for Scouting, Inc. (PFSI) — Acceptable Use Policy
 **Document Owner:** Chief Executive Officer (CEO)  
-**Document Approver:** Chief Technology Officer (CTO) 
+**Document Approver:** Chief Technology Officer (CTO)
 **Applies To:** All users of PFSI technology systems, services, accounts, and platforms (including GitHub)  
 **Effective Date:** 2026-01-25  
 **Version:** 1.0
